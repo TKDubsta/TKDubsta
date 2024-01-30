@@ -1,8 +1,6 @@
 # Hi there, I'm TK (Tom Kirkman) 👋 
 
-
-
-> I am a Full Stack developer and Immersive Theatre Technician.
+> I am a Full Stack developer and Immersive Theatre Technician currently working at Layered Reality accross 2 productions. 
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/-Website-ed5555?&style=for-the-badge&logo=html5&logoColor=white" />][website]
