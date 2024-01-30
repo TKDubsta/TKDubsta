@@ -1,4 +1,4 @@
-# Hi there, I'm TK (Tom Kirkman) 👋 
+# Hi there, I'm TK (Tom Kirkman-Wood) 👋 
 
 > I am a Full Stack developer and Immersive Theatre Technician currently working at Layered Reality accross 2 productions. 
 
