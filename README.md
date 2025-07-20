@@ -9,9 +9,9 @@
 [<img src="https://img.shields.io/badge/-Website-ed5555?&style=for-the-badge&logo=html5&logoColor=white" />][website]
 <br />
 
-### Languages
+### Tech Stack
 
-[<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />][website]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,arduino,bootstrap,cpp,discord,bots,express,git,github)](https://tkw.bz)
 
 <br />
 
