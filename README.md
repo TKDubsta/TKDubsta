@@ -15,5 +15,7 @@
 
 <br />
 
+![TKDubsta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKDubsta&theme=synthwave&hide_border=true)
+
 [showtrak]: https://github.com/ShowTrak
 [website]: https://tkw.bz
