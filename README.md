@@ -1,6 +1,6 @@
 # Hi there, I'm TK (Tom Kirkman-Wood) 👋 
 
-> I am a Full Stack developer and Technical Manager currently working at Punchdrunk accross 2 productions. 
+> I am a Full Stack developer and Technical Manager currently working at Punchdrunk. 
 
 ### My Projects
 [<img src="https://img.shields.io/badge/-ShowTrak-F7DF1E?&style=for-the-badge&logo=ElectronJS5&logoColor=white" />][showtrak]
